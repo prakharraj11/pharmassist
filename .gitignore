@@ -1,0 +1,7 @@
+*.md
+backend/dummyData/report_data_cache.json
+backend/.env
+frontend/.env
+frontend/.env.example
+backend/.env.example
+.env.example
